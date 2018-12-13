@@ -1,4 +1,4 @@
 # Neural Networks
 
 ## Useful webpage tutorials
-http://adventuresinmachinelearning.com/neural-networks-tutorial/
+* [Neural Networks Tutorial – A Pathway to Deep Learning](http://adventuresinmachinelearning.com/neural-networks-tutorial/)
