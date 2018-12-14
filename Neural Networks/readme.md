@@ -1,6 +1,6 @@
 # Neural Network (NN)
 
-## Webpage tutorials
+## Webpages
 * [Neural Networks Tutorial – A Pathway to Deep Learning](http://adventuresinmachinelearning.com/neural-networks-tutorial/)
 <br />A perfect tutorial to start with Neural Network. There are focuses on the concept of basic NN, math, implementaiton (code with Python).
 * [Artificial Neural Networks, Neural Networks Applications and Algorithms](https://www.xenonstack.com/blog/data-science/artificial-neural-networks-applications-algorithms/)
