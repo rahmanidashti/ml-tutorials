@@ -1,5 +1,9 @@
 # Machine Learning Tutorials
-ml-tutorials repo is created to share good Machine Learning Tutorials resources.
+This repo is created to share Machine Learning Tutorials, articles and other resources.
+
+<!-- If you want to contribute to this list, please read Contributing Guidelines. -->
+
+<br/>
 
 ## About Us
-Computer M.Sc. Students of Multi-Agent Systems Laboratoary (MAS-Lab) at the University of Zanjan, Iran.
+Multi-Agent Systems Laboratory (MAS-Lab) Computer Students at the University of Zanjan, Iran.
