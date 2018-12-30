@@ -6,4 +6,4 @@ This repo is created to share Machine Learning Tutorials, articles and other res
 <br/>
 
 ## About Us
-Multi-Agent Systems Laboratory (MAS-Lab) Computer Students at the University of Zanjan, Iran.
+Multi-Agent Systems Laboratory (MASlab) Computer Students at the University of Zanjan, Iran.
