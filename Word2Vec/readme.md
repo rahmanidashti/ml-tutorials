@@ -1,4 +1,4 @@
-# Word2Vec
+# Word Embedding
 
 ## Webpages
 * [Autoencoders and Word Embeddings](https://ayearofai.com/lenny-2-autoencoders-and-word-embeddings-oh-my-576403b0113a)
