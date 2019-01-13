@@ -7,6 +7,8 @@ This repo is created to share Machine Learning Tutorials, articles and other res
 ## Topics
 * [Neural Networks](https://github.com/rahmanidashti/ml-tutorials/tree/master/Neural%20Networks)
 * [Word Embedding](https://github.com/rahmanidashti/ml-tutorials/tree/master/Word%20Embedding)
+* [Learning to Rank](https://github.com/rahmanidashti/ml-tutorials/tree/master/Learning%20to%20Rank)
+
 <!-- If you want to contribute to this list, please read Contributing Guidelines. -->
 
 <br/>
