@@ -1,4 +1,4 @@
 # Learning to Rank
 
 ## Webpages
-[Intro to WARP Loss, automatic differentiation and PyTorch](https://canopylabs.com/resources/intro-warp-loss-automatic-differentiation-pytorch/)
+[Intro to WARP Loss, automatic differentiation and PyTorch](https://medium.com/@gabrieltseng/intro-to-warp-loss-automatic-differentiation-and-pytorch-b6aa5083187a/)
