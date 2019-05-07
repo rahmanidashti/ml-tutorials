@@ -9,6 +9,7 @@
 * [Giant Neural Network - Beginner Introduction to Neural Networks](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
 * [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [deeplizard - Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [MIT Course - Deep Learning Basics](https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
 ## Applications
 * [Tinker With a Neural Network Right Here in Your Browser](https://playground.tensorflow.org)
